@@ -68,3 +68,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## FAQ
 no questions yet
+
+## wishlist
+ - webhooks
+ - notification channels
+ - wiki
+ 
